@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Price Scanner</string>
+    <string name="scan_hint">Kainą laikykite rėmelio centre</string>
+    <string name="scan_searching">Ieškoma kainos…</string>
+    <string name="scan_analyzing">Kaina aptikta, tikrinama…</string>
+    <string name="scan_confirming">Tikrinamas stabilumas…</string>
+    <string name="scan_locked">✓ Kaina užfiksuota · patikimumas %1$d%%</string>
+    <string name="camera_permission_required">Kamerai reikalingas leidimas.</string>
+    <string name="camera_start_failed">Nepavyko paleisti kameros.</string>
+    <string name="torch_off">Žibintuvėlis</string>
+    <string name="torch_on">Žibintuvėlis įjungtas</string>
+    <string name="no_torch">Nėra blykstės</string>
+    <string name="rescan">Skenuoti kitą</string>
+    <string name="scanned_price">Nuskanuota kaina: %1$.2f €</string>
+    <string name="scanned_price_empty">Nuskanuota kaina: -- €</string>
+    <string name="price_empty">-- €</string>
+    <string name="savings">Sutaupote: %1$.2f € (-%2$d%%)</string>
+    <string name="savings_empty">Sutaupote: -- €</string>
+    <string name="custom_discount_hint">Nuolaida %</string>
+    <string name="scan_target_content_description">Kainos skenavimo sritis. Palieskite norėdami sufokusuoti.</string>
+</resources>
